@@ -1,0 +1,9 @@
+datasets/oficial-limpo.csv
+datasets/oficial.csv
+imageBased/vgg16
+imageBased/protobuf-models
+imageBased/resnet-img-aug
+imageBased/resnet50
+imageBased/vgg16-mais-nodes-img-aug
+imageBased/vgg16-sem-scale-img-aug
+onnx
